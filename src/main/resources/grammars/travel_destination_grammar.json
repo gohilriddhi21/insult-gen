@@ -1,0 +1,41 @@
+{
+  "grammarTitle": "Travel Destination Recommender",
+  "grammarDesc": "A grammar that generates random travel destination recommendations. ",
+  "start": [
+    "<recommendation>"
+  ],
+  "recommendation": [
+    "You should consider visiting <place>.",
+    "I highly recommend <place> as your next travel destination.",
+    "For a memorable trip, head to <place>.",
+    "If you're looking for adventure, check out <place>.",
+    "You won't regret exploring <place>."
+  ],
+  "place": [
+    "Paris, France",
+    "Bali, Indonesia",
+    "New York City, USA",
+    "Tokyo, Japan",
+    "Rome, Italy",
+    "Sydney, Australia",
+    "Cape Town, South Africa",
+    "Rio de Janeiro, Brazil",
+    "Bangkok, Thailand",
+    "Prague, Czech Republic",
+    "Barcelona, Spain",
+    "Dubai, UAE",
+    "Santorini, Greece",
+    "Marrakech, Morocco",
+    "Amsterdam, Netherlands",
+    "Hanoi, Vietnam",
+    "Dublin, Ireland",
+    "Istanbul, Turkey",
+    "Budapest, Hungary",
+    "Vienna, Austria",
+    "Toronto, Canada",
+    "Cairo, Egypt",
+    "Reykjavik, Iceland",
+    "Singapore",
+    "Seoul, South Korea"
+  ]
+}
